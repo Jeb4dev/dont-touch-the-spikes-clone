@@ -27,11 +27,10 @@ run app.py
 python main.py
 ```
 
-install 
-
 ## Credits
 - original game
 - minecraft for lava image
 - pygame tutorials in youtube
+
 ## License
 MIT
